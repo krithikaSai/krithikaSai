@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">Hey there 👋, I'm Krithika Sai Devatha!</h1>
+<h3 align="center">A passionate coder & creative tool builder!</h3>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e41ba045-283a-436a-911d-d94d6661f4b2" width="500" alt="Krithika Sai Devatha" />
 
-<!--
-**krithikaSai/krithikaSai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</p>
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F779A1&width=400&lines=Turning+creative+ideas+into+code;AI+and+Cybersecurity+lover;Developing+cool+apps+and+sites;Always+learning,+always+building!!!" alt="Typing SVG" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+---
+
+
+### Tech Stack
+<p align="left">
+  <strong>Languages:</strong> Java, Python, JavaScript, SQL<br>
+  <strong>Tools & Frameworks:</strong> Hibernate, MySQL, Git, VS Code, Postman<br>
+  <strong>Web Dev:</strong> HTML, CSS, JavaScript<br>
+  <strong>Cybersecurity Tools:</strong> Nmap, Burp Suite, Metasploit<br>
+</p>
+
+
+---
+
+### Reach me here
+- 💼 LinkedIn: www.linkedin.com/in/krithikasai
+- 📧 Email: **krithika0628@gmail.com**
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/krishdevdb/awesome-github-profile-readme-template/main/assets/wave.gif" width="100px">
+</p>
+
+
+
