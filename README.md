@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Krithika Sai Devatha!</h1>
+<h1 align="center">Hello, I'm Krithika Sai Devatha!</h1>
 <h3 align="center">A passionate coder & creative tool builder!</h3>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e41ba045-283a-436a-911d-d94d6661f4b2" width="500" alt="Krithika Sai Devatha" />
