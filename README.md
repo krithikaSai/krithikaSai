@@ -6,7 +6,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F779A1&width=400&lines=I+like+turning+creative+ideas+into+code!;Passionate+about+AI+and+Cybersecurity;Working+on+developing+cool+apps+and+sites;Always+learning,+always+building!!!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F779A1&width=400&lines=Turning+creative+ideas+into+code!;Passionate+about+Cybersecurity;Working+on+developing+cool+apps;Always+learning,+always+building!!!" alt="Typing SVG" />
 </div>
 
 
