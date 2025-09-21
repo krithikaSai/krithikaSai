@@ -17,9 +17,9 @@
 ### Tech Stack
 <p align="left">
   <strong>Languages:</strong> Java, Python, JavaScript, SQL<br>
-  <strong>Tools & Frameworks:</strong> Hibernate, MySQL, Git, VS Code, Postman<br>
+  <strong>Tools & Frameworks:</strong> Hibernate, MySQL, Git, React, Postman<br>
   <strong>Web Dev:</strong> HTML, CSS, JavaScript<br>
-  <strong>Cybersecurity Tools:</strong> Nmap, Burp Suite, Metasploit<br>
+  <strong>Cybersecurity Tools:</strong> Nmap, Burp Suite, Wireshark, Metasploit<br>
 </p>
 
 
